@@ -1,4 +1,4 @@
-# React-Basic-Slide
+# React-Basic-Slider
 ## Without Design
 learning purpose repo.
 I just love **Learning React**.
